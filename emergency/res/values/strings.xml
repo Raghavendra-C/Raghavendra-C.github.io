@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apathbandhava</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity2">Apathbandhava</string>
+    <string name="title_activity_main_activity3">Apathbandhava</string>
+    <string name="title_activity_main_activity4">Apathbandhava</string>
+    <string name="title_activity_splash_screen">Apathbandhava</string>
+    <string name="title_activity_aboutus">Apathbandhava</string>
+    <string name="title">All rights are reserved with the developers as per the copyright issue 2018 India.No part of this software design 
+icons and documentation may be reproduced or transmitted in any form without the prior permission.
+developed by 
+ABHI P
+
+        
+    </string>
+</resources>
